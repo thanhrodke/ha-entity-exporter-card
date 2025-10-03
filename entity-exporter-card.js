@@ -1,10 +1,10 @@
 // Entity Exporter Card for Home Assistant
-// Version: 1.1.0
+// Version: 1.2.0
 // Author: scharc (https://github.com/scharc)
 // License: MIT
 // Created using "vibe coding" - collaborative AI-assisted development
 
-const CARD_VERSION = "1.1.0";
+const CARD_VERSION = "1.2.0";
 console.log("[HA Entity Exporter] Loading version:", CARD_VERSION);
 console.log("[HA Entity Exporter] Registering custom card");
 
